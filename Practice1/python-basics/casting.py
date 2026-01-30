@@ -15,3 +15,7 @@ w = float("4.2") # w will be 4.2
 print(int(35.88)) # outputs 35
 
 print(int("56"))  # outputs 56
+
+print(int(True))  # outputs 1
+print(int(False)) # outputs 0
+
