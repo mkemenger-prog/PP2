@@ -173,4 +173,3 @@ while True:
             pygame.quit(); sys.exit()
         if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
             main()
-            
