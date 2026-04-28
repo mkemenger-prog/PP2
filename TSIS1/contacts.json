@@ -1,0 +1,74 @@
+[
+    [
+        "John Doe",
+        "john@gmail.com",
+        "2000-05-10",
+        null,
+        "87001112233",
+        "mobile"
+    ],
+    [
+        "John Doe",
+        "john@gmail.com",
+        "2000-05-10",
+        null,
+        "7775554433",
+        "work"
+    ],
+    [
+        "Anna Smith",
+        "anna@gmail.com",
+        "1999-03-22",
+        null,
+        "87009998877",
+        "mobile"
+    ],
+    [
+        "Mike Brown",
+        "mike@yahoo.com",
+        "2001-11-01",
+        null,
+        "87001234567",
+        "home"
+    ],
+    [
+        "Mike Brown",
+        "mike@yahoo.com",
+        "2001-11-01",
+        null,
+        "87007654321",
+        "mobile"
+    ],
+    [
+        "raim",
+        "raimlox@gmail.com",
+        "2000-11-11",
+        "family",
+        "87789050670",
+        "home"
+    ],
+    [
+        "raim",
+        "raimlox@gmail.com",
+        "2000-11-11",
+        "family",
+        "45545454545",
+        "work"
+    ],
+    [
+        "raim",
+        "raimlox@gmail.com",
+        "2000-11-11",
+        "family",
+        "44444444444",
+        "mobile"
+    ],
+    [
+        "ahmeet",
+        "ahmetlox@gmail.com",
+        "2000-11-12",
+        "family",
+        null,
+        null
+    ]
+]
