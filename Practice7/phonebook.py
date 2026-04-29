@@ -1,6 +1,6 @@
 import csv
 import psycopg2
-from connect import connect
+from TSIS1.connect import connect
 
 def create_table(conn):
     """Creates the contacts table if it doesn't exist."""

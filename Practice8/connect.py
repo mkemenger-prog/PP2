@@ -1,5 +1,5 @@
 import psycopg2
-from config import params
+from TSIS1.config import params
 
 def connect():
     """ Connect to the PostgreSQL database server """

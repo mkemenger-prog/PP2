@@ -1,4 +1,4 @@
-from connect import connect
+from TSIS1.connect import connect
 
 def run_phonebook():
     conn = connect()
